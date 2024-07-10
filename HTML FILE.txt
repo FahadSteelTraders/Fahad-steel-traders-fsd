@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fahad Steel Traders</title>
+    <style>
+        /* Basic styling */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #666;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .contact-info {
+            margin-top: 20px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Fahad Steel Traders</h1>
+            <p>Specializing in Deform Steel Grade 60, Mughal T-Iron & Girders</p>
+        </header>
+        
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Fahad Steel Traders is a leading supplier of high-quality steel products, catering to diverse industrial and construction needs. We are committed to delivering excellence through our premium-grade materials and exceptional service.</p>
+        </section>
+        
+        <section id="products">
+            <h2>Our Products</h2>
+            <ul>
+                <li>Deform Steel Grade 60</li>
+                <li>Mughal T-Iron</li>
+                <li>Girders</li>
+            </ul>
+        </section>
+        
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>At Fahad Steel Traders, we offer more than just products. Our services include customized solutions, technical support, and reliable delivery, ensuring that your project requirements are met with precision and efficiency.</p>
+        </section>
+        
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <div class="contact-info">
+                <p>For inquiries and quotes, please contact:</p>
+                <p>Email: info@fahadsteeltraders.com</p>
+                <p>Phone: +1234567890</p>
+                <p>Address: 123 Steel Traders Street, City, Country</p>
+            </div>
+        </section>
+        
+        <footer class="footer">
+            <p>&copy; 2024 Fahad Steel Traders. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
